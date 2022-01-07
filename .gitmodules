@@ -1,0 +1,9 @@
+[submodule "admin"]
+	path = admin
+	url = ./admin/
+[submodule "backend"]
+	path = backend
+	url = ./backend/
+[submodule "storefront"]
+	path = storefront
+	url = ./storefront/
